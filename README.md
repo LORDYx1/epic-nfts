@@ -1,4 +1,4 @@
-# Basic Sample NFT Project with some simple CSS
+# Basic Sample NFT Project to test my new learnt skils
 
 This is my first attempt at the Smart Contract to Generate on-chain, SVG random 3 word NFTs.
 
